@@ -1,0 +1,1 @@
+Proposed authoring requirements for RSS5: Documents MUST NOT attempt to follow this specification. It is RECOMMENDED they use the Atom Syndication Format instead. <a href="http://www.ietf.org/rfc/rfc4287">[RFC4287]</a>
