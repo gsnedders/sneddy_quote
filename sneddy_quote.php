@@ -37,11 +37,11 @@ class sneddy_quote extends Plugin
 		// Get all the quotes
 		static $quotes;
 		if ( ! $quotes ) {
-			$quotes = file('quotes.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+			$quotes = file( 'quotes.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES );
 		}
 		
 		// Get a random one
-		$theme->quote = $quotes[array_rand($quotes)];
+		$theme->quote = $quotes[ array_rand( $quotes ) ];
 	}
 
 	/**
