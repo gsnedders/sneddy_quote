@@ -1,1 +1,15 @@
 Proposed authoring requirements for RSS5: Documents MUST NOT attempt to follow this specification. It is RECOMMENDED they use the Atom Syndication Format instead. <a href="http://www.ietf.org/rfc/rfc4287">[RFC4287]</a>
+The editor recommends eating pasta while implementing this specification. Lachlan Hunt recommends eating hamburgers while implementing this specification.
+And just saying you make me happy seems too much to be socially inapt mind.
+(Conscious stream of thought at 4am. The quality of the English reflects that.)
+But I have you!
+Holiday? You get no holiday from teh future of teh intarwebs!
+As long as Unicode isn't 16-bit (which it hasn't been since Unicode 1.0) and US-ASCII isn't 8-bit (which it has never been), I'll be happy.
+I just took the break down option.
+I ran down a hilly field and fell over this morning. I landed in cow shite.
+Life is always odd.
+Life is as logical as HTML.
+Life is… interesting.
+I am möbius!
+In an infinite möbius. Infinite loops are <em>so</em> yesterday.
+On a I'm-too-tired-to-even-say-something-sensible note: Up to anything exciting?
