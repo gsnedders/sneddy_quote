@@ -5,7 +5,7 @@
  * Gives you a random bit of what is probably not wisdom!
  *
  * Usage: <?php $theme->sneddy_quote(); ?> to show the random quote. A sample
- * sneddy_quote.php template is included with the plugin. This can be copied to
+ * template.php template is included with the plugin. This can be copied to
  * your active theme and modified.
  **/
 
@@ -49,7 +49,7 @@ class sneddy_quote extends Plugin
 	 */
 	public function action_init()
 	{
-		$this->add_template( 'sneddy_quote', dirname( __FILE__ ) . '/sneddy_quote.php' );
+		$this->add_template( 'sneddy_quote', dirname( __FILE__ ) . '/template.php' );
 	}
 }
 
