@@ -22,3 +22,6 @@ I mean, in most cases that'd be implied to be sex, but I'm möbius, so that woul
 I've found someone like me! We're both too shy to ask each other out!
 I wrote something <em>very</em> risqué today. It's… about… possibly legal sex!
 I just read, in IRC, "i have zero experience with osx" as "i have zero experience with sex".
+My new theory: XML exists to throw fatal errors on unsuspecting users!
+Can I post a comment on your blog that'll make it ill-formed XML just to prove software sucks?
+Regular expressions are just brainfuck in disguise.
