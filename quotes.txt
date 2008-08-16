@@ -25,3 +25,5 @@ I just read, in IRC, "i have zero experience with osx" as "i have zero experienc
 My new theory: XML exists to throw fatal errors on unsuspecting users!
 Can I post a comment on your blog that'll make it ill-formed XML just to prove software sucks?
 Regular expressions are just brainfuck in disguise.
+The longer anything goes on for, the less it makes sense.
+Don't make me put make-up on!
