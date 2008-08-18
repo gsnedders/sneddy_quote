@@ -42,6 +42,9 @@ class sneddy_quote extends Plugin
 		
 		// Get a random one
 		$theme->quote = $quotes[ array_rand( $quotes ) ];
+		
+		// Get the theme
+		return $theme->fetch( 'sneddy_quote' );
 	}
 
 	/**
