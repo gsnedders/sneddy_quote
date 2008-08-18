@@ -1,7 +1,7 @@
 Proposed authoring requirements for RSS5: Documents MUST NOT attempt to follow this specification.
 The editor recommends eating pasta while implementing this specification.
 And just saying you make me happy seems too much to be socially inapt mind.
-(Conscious stream of thought at 4am. The quality of the English reflects that.)
+Conscious stream of thought at 4am. The quality of the English reflects that.
 But I have you!
 Holiday? You get no holiday from teh future of teh intarwebs!
 As long as Unicode isn't 16-bit (which it hasn't been since Unicode 1.0) and US-ASCII isn't 8-bit (which it has never been), I'll be happy.
@@ -14,7 +14,7 @@ I am möbius!
 In an infinite möbius. Infinite loops are <em>so</em> yesterday.
 On a I'm-too-tired-to-even-say-something-sensible note: Up to anything exciting?
 I know I'm a dirty bisexual slut, but…
-And now I'm a being sold as a sex slave so one of my friends can buy a PS3.
+And now I'm a being sold as a sex slave so one of my friends <!-- (Cammy) --> can buy a PS3.
 Only thirty minutes until I can have more paracetamol! Yay!
 Guys? I'll be just as hopeless… just with a different sex!
 <q>Rated PG-13 for some sex-related comments.</q> — oh noes! sex! I mean, my parents have never had sex. They're far too responsible for that.
@@ -27,3 +27,4 @@ Can I post a comment on your blog that'll make it ill-formed XML just to prove s
 Regular expressions are just brainfuck in disguise.
 The longer anything goes on for, the less it makes sense.
 Don't make me put make-up on!
+I am insane.
